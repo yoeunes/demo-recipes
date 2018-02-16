@@ -1,0 +1,14 @@
+<bg=green;fg=white>                                   </>
+<bg=blue;fg=white>                                   </>
+<bg=blue;fg=white>            You did it!            </>
+<bg=blue;fg=white>                                   </>
+<bg=green;fg=white>                                   </>
+
+You are using the i22 symfony recipe repo.
+You should change that and use your own repo.
+
+Also, installing the airbrake bundle with Symfony 4
+has not been tested. This recipe is solely for
+demonstration purposes and won't configure the
+airbrake bundle. You'll still have to get that
+up and running on your own.
